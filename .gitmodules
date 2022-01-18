@@ -1,0 +1,4 @@
+[submodule "submodules/SubClass"]
+	path = submodules/SubClass
+	url = git@github.com:AlainBartmanDilaw/SubClass.git
+	branch = master
