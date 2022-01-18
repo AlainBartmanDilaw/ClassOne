@@ -8,7 +8,9 @@ namespace ClassOne
 
         public int Run()
         {
-            return 0;
+            var subClass = new SubClass.SubClass();
+
+            return 0 + subClass.Run();
         }
     }
 }
